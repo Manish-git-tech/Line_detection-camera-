@@ -50,13 +50,13 @@ This project detects a black line in a video and represents it as an occupancy g
 ### **Running the Project**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Line_detection-camera-.git
+   cd Line_detection-camera-
    ```  
 2. Place your video file in the project directory.  
 3. Update the video path in `line.py`:  
    ```python
-   video_path = "D:\\vid.mp4"  # Change this to your video file path
+   video_path = "vid.mp4"  # Change this to your video file path
    ```  
 4. Run the script:  
    ```sh
@@ -103,14 +103,10 @@ This project detects a black line in a video and represents it as an occupancy g
 🎯 Enhance contour filtering to handle complex environments.  
 📡 Expand to multi-line detection for lane tracking.  
 
----
-
-## **Acknowledgments**  
-Special thanks to **OpenAI's ChatGPT** for refining the report and helping with grid conversion techniques.  
+ 
 
 ---
 
 ## **Contributors**  
-👤 **Manish Kumar**  
-📧 Email: ce240004032@iiti.ac.in  
+👤 **Manish Kumar**
 
